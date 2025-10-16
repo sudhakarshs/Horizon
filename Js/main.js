@@ -1,12 +1,3 @@
-/*-----------------------------------------------------------------------------------
-
-    Theme Name: Horizon Manufacturing Solutions - Industry & Factory HTML Template
-    Description: Industry & Factory HTML Template
-    Author: Website Layout
-    Version: 1.0
-            
-    ---------------------------------- */
-
 ! function(e) {
     "use strict";
     var a = e(window);
